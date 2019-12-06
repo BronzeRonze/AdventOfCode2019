@@ -1,0 +1,12 @@
+F:\Programming\CodeAdvent\2019\AdventCode19\bin\Debug\netcoreapp3.0\AdventCode19.exe
+F:\Programming\CodeAdvent\2019\AdventCode19\bin\Debug\netcoreapp3.0\AdventCode19.deps.json
+F:\Programming\CodeAdvent\2019\AdventCode19\bin\Debug\netcoreapp3.0\AdventCode19.runtimeconfig.json
+F:\Programming\CodeAdvent\2019\AdventCode19\bin\Debug\netcoreapp3.0\AdventCode19.runtimeconfig.dev.json
+F:\Programming\CodeAdvent\2019\AdventCode19\bin\Debug\netcoreapp3.0\AdventCode19.dll
+F:\Programming\CodeAdvent\2019\AdventCode19\bin\Debug\netcoreapp3.0\AdventCode19.pdb
+F:\Programming\CodeAdvent\2019\AdventCode19\obj\Debug\netcoreapp3.0\AdventCode19.csprojAssemblyReference.cache
+F:\Programming\CodeAdvent\2019\AdventCode19\obj\Debug\netcoreapp3.0\AdventCode19.csproj.CoreCompileInputs.cache
+F:\Programming\CodeAdvent\2019\AdventCode19\obj\Debug\netcoreapp3.0\AdventCode19.AssemblyInfoInputs.cache
+F:\Programming\CodeAdvent\2019\AdventCode19\obj\Debug\netcoreapp3.0\AdventCode19.AssemblyInfo.cs
+F:\Programming\CodeAdvent\2019\AdventCode19\obj\Debug\netcoreapp3.0\AdventCode19.dll
+F:\Programming\CodeAdvent\2019\AdventCode19\obj\Debug\netcoreapp3.0\AdventCode19.pdb
